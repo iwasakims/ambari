@@ -25,6 +25,7 @@
         "extends" : "redhat",
         "distro": [
           "redhat-ppc",
+          "fedora-ppc",
           "centos-ppc"
         ],
         "versions": [
